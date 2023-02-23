@@ -1,0 +1,19 @@
+input.txt
+mignotte.txt
+Agenzia Spaziale Italiana	
+Associazione Nazionale Comuni Italiani
+Automobil Club Italia
+Consiglio Nazionale Ricerche 	
+European Commission
+European Space Agency 	
+Food Agriculture Organization 
+International Energy Agency
+Istituto Nazionale Geofisica Vulcanologia
+Ministero Istruzione Universita' Ricerca
+North Atlantic Treaty Organisation
+Organizzazione Nazioni Unite
+Servizio Bibliotecario Nazionale
+EC
+ESA
+IEA
+INGV
